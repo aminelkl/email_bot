@@ -1,2 +1,2 @@
-# email_bot
+# Mail bot
 bot that send email in python
