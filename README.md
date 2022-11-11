@@ -1,2 +1,4 @@
 # Mail bot
-bot that send email in python
+bot that send an email x times to the same email destinator
+
+**Only for educational purpose
